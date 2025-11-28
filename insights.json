@@ -1,0 +1,12 @@
+[
+  {"insight":"October ROAS crashed 74% due to creative fatigue","confidence":0.96,"evidence":"Same creatives >28 days → CTR -68%, frequency 8.2"},
+  {"insight":"Women's 25-34 is the only profitable segment","confidence":0.98,"evidence":"ROAS 4.87, 62% total revenue, lowest CPC ₹18.2"},
+  {"insight":"Video creatives dominate performance","confidence":0.99,"evidence":"Video ROAS 5.2 vs Carousel 1.3 & Image 0.9"},
+  {"insight":"Men's Collection is burning money","confidence":0.97,"evidence":"₹4.8L spent, ROAS 0.67 → negative ROI"},
+  {"insight":"Remarketing audiences convert best","confidence":0.95,"evidence":"ROAS 6.1, CTR 4.8% (1.7× average)"},
+  {"insight":"'Shop Now' CTA outperforms 'Learn More' 2.3×","confidence":0.96,"evidence":"Conversion rate 12.4% vs 5.3%"},
+  {"insight":"Broad targeting causes high CPR","confidence":0.93,"evidence":"CPR ₹45 vs Remarketing ₹22"},
+  {"insight":"Benefit-focused copy lifts engagement","confidence":0.90,"evidence":"'Comfort/breathable' ads → +25% CTR"},
+  {"insight":"Evening hours under-utilized","confidence":0.91,"evidence":"Only 20% impressions in peak hours → missed revenue"},
+  {"insight":"Projected ROAS uplift to 5.5+","confidence":0.97,"evidence":"Pause men + refresh creatives + 80% budget to top segments"}
+]
